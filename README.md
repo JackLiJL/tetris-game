@@ -17,7 +17,7 @@ Before running this project, make sure you have the following installed:
 ## Installation & Setup
 1. Navigate to the project directory in your terminal:
 ```
-cd jie-li-frontend-assigment
+cd tetris-game
 ```
 
 2. Install dependencies:
